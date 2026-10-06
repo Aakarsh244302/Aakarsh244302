@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakarsh kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="400"src="https://static.vecteezy.com/system/resources/thumbnails/060/706/622/small/programmer-coding-software-on-laptop-and-desktop-computer-with-coffee-cup-illustration-vector.jpg
+<img align ="right" alt="coding" width="400"src="https://static.vecteezy.com/system/resources/thumbnails/060/706/622/small/programmer-coding-software-on-laptop-and-desktop-computer-with-coffee-cup-illustration-vector.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakarsh244302&label=Profile%20views&color=0e75b6&style=flat" alt="aakarsh244302" /> </p>
